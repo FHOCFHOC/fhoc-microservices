@@ -1,4 +1,4 @@
-package com.corinto;
+package com.corinto.controllers;
 
 import java.util.concurrent.atomic.AtomicLong;
 
